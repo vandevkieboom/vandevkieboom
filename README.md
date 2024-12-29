@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=vandevkieboom&icon=0&color=5)](https://visitcount.itsvg.in)
-
 ![](https://github-readme-stats.vercel.app/api?username=vandevkieboom&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true)
 
 ### 🧰 Languages and Tools
@@ -19,13 +17,4 @@
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <img align="left" alt="Axios" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
 
-
-
-
-
-
-
-
-
-
-<br />
+[![](https://visitcount.itsvg.in/api?id=vandevkieboom&icon=0&color=5)](https://visitcount.itsvg.in)
